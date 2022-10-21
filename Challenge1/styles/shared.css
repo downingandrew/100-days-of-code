@@ -6,7 +6,9 @@ body {
 h1 {
   font-family: "Oswald", sans-serif;
 }
-
+header p {
+  margin-bottom: 36px;
+}
 P {
   font-family: "Fira sans", sans-serif;
 }
