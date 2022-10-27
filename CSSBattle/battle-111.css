@@ -1,0 +1,37 @@
+#battle-111 .body{
+    background: #F3AC3C;
+    margin:0
+ }
+#battle-111 .teardropt{
+    position: absolute;
+    left: 160;
+    top: 40px;
+      }
+#battle-111 .teardropl{
+    position: absolute;
+    left: 80;
+    top: 110;
+    transform: rotate(-90deg);
+  }
+  #battle-111 .teardropb{
+    position:absolute;
+    left: 160;
+    top: 180;
+    transform: rotate(180deg);
+  }
+  #battle-111 .circle{
+    height: 80px;
+    width: 80px;
+    background-color: #254241;
+    border-radius: 50%;
+  }
+  #battle-111 .square{
+    height: 50px;
+    width: 50px;
+    background-color: #254241;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 35px;
+    left: 15px;
+    
+  }
