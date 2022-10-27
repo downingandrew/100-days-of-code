@@ -28,6 +28,7 @@ ol {
 
 li {
   padding: 9px;
+  box-shadow: 1px,1px, 4px rgba (o, o, 0, 0.2px);
   margin: 20px;
   background-color: rgb(223, 136, 124);
   border-radius: 6px;
