@@ -2,12 +2,13 @@ body {
     background-color: rgb(125, 81, 226);
     text-align:center;
 }
-#lists {
+
+ul {
+    list-style: none;
     background-color: aqua;
     text-align:center;
     color: rgb(170, 11, 11);
     font-size: large;
-    width: fit-content;
-    height: fit-content;
-    padding: px;
+   
+    
 }
